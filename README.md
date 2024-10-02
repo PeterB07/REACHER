@@ -33,3 +33,9 @@ python server.py #(Runs the task in port:5000)
 
 ```
 
+## Result 
+
+![Screenshot 2024-10-02 143925](https://github.com/user-attachments/assets/d672febc-c9f0-4e1b-a552-627c4f664b20)
+
+
+
